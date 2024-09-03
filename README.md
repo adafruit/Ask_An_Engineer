@@ -29,3 +29,5 @@ Question: I'd like to run my Raspberry Pi RP2040 project on solar power, how wou
 Go to Issues and post your information 
 
 You can also post to Twitter/X or Mastodon and hashtag your post #AskAnEngineer
+
+Post on the Adafruit Discord (https://adafru.it/discord) under the #ask-an-engineer-questions channel.
