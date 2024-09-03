@@ -6,10 +6,7 @@ This area is dedicated to the Adafruit Ask an Engineer videocast. Ask your quest
 
 ## How to Submit Your Questions
 
-Post your questions under the latest date for consideration under the current year (2024)
-
-You can just post an Issue if you aren't familiar with GitHub.
-If you're comfortable, you can do a Pull Request for the day you'd like your question answered. 
+Look in Issues for the date and pst your name and question(s) under that issue.
 
 **The format for requests:**
 
@@ -29,6 +26,6 @@ Question: I'd like to run my Raspberry Pi RP2040 project on solar power, how wou
 * Where can I find out more about Adafruit IO and example code?
 * How are things going in the new Brooklyn factory space?
 
-Go to Issues and post your information of do a GitHub pull request under the current year (2024) and date.
+Go to Issues and post your information 
 
 You can also post to Twitter/X or Mastodon and hashtag your post #AskAnEngineer
