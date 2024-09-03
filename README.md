@@ -28,3 +28,7 @@ Question: I'd like to run my Raspberry Pi RP2040 project on solar power, how wou
 * Adafruit has a Feather doubler, tripler, and quad. I could really use a board with five slots. Ideas?
 * Where can I find out more about Adafruit IO and example code?
 * How are things going in the new Brooklyn factory space?
+
+Go to Issues and post your information of do a GitHub pull request under the current year (2024) and date.
+
+You can also post to Twitter/X or Mastodon and hashtag your post #AskAnEngineer
