@@ -2,9 +2,9 @@
 
 <img width="550" src="https://github.com/adafruit/Ask_An_Engineer/blob/main/aae.jpg" alt="Adafruit Ask an Engineer">
 
-Related to the Ask an Engineer videocast. Ask your questions anytime by posting here.
+This area is dedicated to the Adafruit Ask an Engineer videocast. Ask your questions anytime by posting here.
 
-## How to:
+## How to Submit Your Questions
 
 Post your questions under the latest date for consideration under the current year (2024)
 
