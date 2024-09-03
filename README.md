@@ -6,7 +6,7 @@ This area is dedicated to the Adafruit Ask an Engineer videocast. Ask your quest
 
 ## How to Submit Your Questions
 
-Look in Issues for the date and pst your name and question(s) under that issue.
+Look in Issues for the date and post your name and question(s) under that issue.
 
 **The format for requests:**
 
