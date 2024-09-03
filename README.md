@@ -1,6 +1,6 @@
 # Adafruit Ask An Engineer
 
-<img width="550" src="https://github.com/adafruit/Ask_An_Engineer/blob/main/AAE.jpg" alt="Adafruit Ask an Engineer">
+<img width="550" src="https://github.com/adafruit/Ask_An_Engineer/blob/main/aae.jpg" alt="Adafruit Ask an Engineer">
 
 Related to the Ask an Engineer videocast. Ask your questions anytime by posting here.
 
